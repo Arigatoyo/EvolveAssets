@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 30373d6250c5a5b439c67d8ac8f70133
+timeCreated: 1514440869
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AxleBack
+    100002: AxleFront
+    100004: body2
+    100006: Body3
+    100008: body3
+    100010: body4
+    100012: glass1
+    100014: glass2
+    100016: //RootNode
+    100018: Rear
+    100020: Steer
+    100022: WheelBack
+    100024: WheelFront
+    400000: AxleBack
+    400002: AxleFront
+    400004: body2
+    400006: Body3
+    400008: body3
+    400010: body4
+    400012: glass1
+    400014: glass2
+    400016: //RootNode
+    400018: Rear
+    400020: Steer
+    400022: WheelBack
+    400024: WheelFront
+    2300000: AxleFront
+    2300002: body2
+    2300004: Body3
+    2300006: body3
+    2300008: body4
+    2300010: glass1
+    2300012: glass2
+    2300014: Rear
+    2300016: Steer
+    2300018: WheelBack
+    2300020: WheelFront
+    3300000: AxleFront
+    3300002: body2
+    3300004: Body3
+    3300006: body3
+    3300008: body4
+    3300010: glass1
+    3300012: glass2
+    3300014: Rear
+    3300016: Steer
+    3300018: WheelBack
+    3300020: WheelFront
+    4300000: Body3
+    4300002: Rear
+    4300004: Steer
+    4300006: body4
+    4300008: AxleFront
+    4300010: WheelFront
+    4300012: body3
+    4300014: glass2
+    4300016: WheelBack
+    4300018: body2
+    4300020: glass1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1147bb8a6
+    second: {fileID: 2100000, guid: 0932b1ff9f5449f44bf1cd94d05c97ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3_6
+    second: {fileID: 2100000, guid: 863df714143271b42bbd205fd3ad6bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7777fbeb6
+    second: {fileID: 2100000, guid: 1338b4fdc0885dd4ea427f414e33e6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 784322bf8
+    second: {fileID: 2100000, guid: 081de5829354496409e4fe12e0104434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 87120413
+    second: {fileID: 2100000, guid: 07d6932860cc8b34fa93af63f8a6e8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 87120415
+    second: {fileID: 2100000, guid: d61b19b6f83712a48a68aa03dfaedcfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material15
+    second: {fileID: 2100000, guid: ffcd190ac3fcb804987b945d2c6f307d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material16
+    second: {fileID: 2100000, guid: e5853f86faf2d5c418724db75d5846ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: license plates5
+    second: {fileID: 2100000, guid: 92613544f39b3b04b96863aa43cf691b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: preto c5
+    second: {fileID: 2100000, guid: 4f1b5cf1e464b9e4c853b8bdd51b8028, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

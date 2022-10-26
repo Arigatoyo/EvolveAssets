@@ -1,0 +1,634 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &530130001944567306
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 3137237232377472953, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_Wheel (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.7180002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.41999993
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.409
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd1b766344a8a5e4fbd336d216883e11, type: 3}
+--- !u!1001 &1690375781188266180
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 651352260215422585, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_DoorRear
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.13300009
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.1933
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797649912559584405, guid: 185ad5ee8c208414f873db245a0adf89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 185ad5ee8c208414f873db245a0adf89, type: 3}
+--- !u!1001 &1712763842510594840
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.90120006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.051400032
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.788
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2423714589190453558, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4012992636076380412, guid: 28e2256bb8118c448887e55ec933190b,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_DoorL
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28e2256bb8118c448887e55ec933190b, type: 3}
+--- !u!1001 &3480922947310616183
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 3137237232377472953, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_Wheel (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.7180002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.42000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.141
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd1b766344a8a5e4fbd336d216883e11, type: 3}
+--- !u!1001 &3648419265578189590
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 3137237232377472953, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_Wheel (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.72300005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.41999993
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.409
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd1b766344a8a5e4fbd336d216883e11, type: 3}
+--- !u!1001 &6573071294009372517
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4649227549333536220, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_car_White
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649227549333536220, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aa1ebaaf861f4e24eafa60a86df33ca8, type: 3}
+--- !u!4 &1222361137802283011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5462461170840266598, guid: aa1ebaaf861f4e24eafa60a86df33ca8,
+    type: 3}
+  m_PrefabInstance: {fileID: 6573071294009372517}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7540920465926043460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 3137237232377472953, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_Wheel (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.72300005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.42000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.1410002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6622021997156576633, guid: bd1b766344a8a5e4fbd336d216883e11,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd1b766344a8a5e4fbd336d216883e11, type: 3}
+--- !u!1001 &8841963129713523562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.9024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.050800033
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.788
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4158154055956178746, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9047311788067669910, guid: 1b03a59086b74e543bb93051a07a8ffe,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_DoorR
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b03a59086b74e543bb93051a07a8ffe, type: 3}
+--- !u!1001 &8897822622151911718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1222361137802283011}
+    m_Modifications:
+    - target: {fileID: 1021323878426910392, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_Name
+      value: AmericanSUV_Glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.613
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.31299996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1725750982696384552, guid: fddc6e8337a0fc9429d7cee6aa4735e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fddc6e8337a0fc9429d7cee6aa4735e3, type: 3}
